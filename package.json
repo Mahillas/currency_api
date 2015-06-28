@@ -1,0 +1,31 @@
+{
+  "name": "currency_api",
+  "version": "1.0.0",
+  "description": "Currency API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mahillas/currency_api"
+  },
+  "keywords": [
+    "currency",
+    "api"
+  ],
+  "author": "Duma Mtungwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahillas/currency_api/issues"
+  },
+  "homepage": "https://github.com/mahillas/currency_api",
+  "dependencies": {
+    "koa": "^0.21.0",
+    "koa-bodyparser": "^2.0.0",
+    "koa-route": "^2.4.1",
+    "mongoose": "^4.0.6",
+    "q": "^1.4.1",
+    "winston": "^1.0.1"
+  }
+}
