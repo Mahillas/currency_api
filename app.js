@@ -6,13 +6,10 @@ var koa = require('koa');
 var Trade = require('./models/trades').Trade;
 var Q = require('q');
 var logger = require('winston');
-
 var app = koa();
 app.use(bodyParser());
 
-
-
-var currency = {
+var api = {
   list: function *(){
     try{
       this.body = yield Trade.find().exec();
@@ -34,8 +31,6 @@ var currency = {
     var trade;
     var result;
 
-    console.log(tradeData);
-
     try {
       trade = new Trade(tradeData);
       result = (yield Q.ninvoke(trade, 'save'));
@@ -49,9 +44,10 @@ var currency = {
   }
 };
 
-app.use(_.get('/trade', currency.list));
-app.use(_.post('/trade', currency.add));
-app.use(_.get('/trade/:id', currency.show));
+app.use(_.get('/trade', api.list));
+app.use(_.post('/trade', api.add));
+app.use(_.get('/trade/:id', api.show));
 
 app.listen(3000);
+
 console.log('listening on port 3000');
