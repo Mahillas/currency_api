@@ -47,17 +47,24 @@ var api = {
     }
   },
 
-  cass: function *(){
+  cassandra: function *(){
     var query = 'select key from system.local';
     var result =  yield client.execute(query);
     this.body = result.rows;
+  },
+
+  cass_post: function *() {
+    data = this.request.body;
+    var query = "insert into trades";
+    this.body = "cass successful";
+
   }
 };
 
 app.use(_.get('/trade', api.list));
 app.use(_.post('/trade', api.add));
 app.use(_.get('/trade/:id', api.show));
-app.use(_.get('/cass', api.cass));
+app.use(_.get('/cassandra', api.cass));
 
 app.listen(3000);
 
