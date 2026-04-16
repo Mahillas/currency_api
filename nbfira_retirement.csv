@@ -1,501 +1,91 @@
 number,name,sector
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
+1,Mmila Beneficiary Fund,Beneficiacy Fund 
+2,NMG Beneficiary Fund,Beneficiacy Fund 
+3,Alexander Forbes Beneficiary Fund,Beneficiary Fund 
+4,Glenrand MIB Orphans Fund  ,Beneficiary Fund 
+5,Fiducia Beneficiary Fund,Beneficiary Fund 
+6,Carrier South  Africa Provident Fund-External Fund,External Fund
+7,Knight Pie Sold Pension Fund ,External Fund
+8,WIKA Instrument  Pension Fund  (External Fund),External Fund 
+9,Alexander Forbes Individual Member Retirement Fund,Individual  Retirement Fund 
 10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
 11,Morula Individual Retirement Fund,Individual Retirement Fund
 12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
+13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund 
+14,Air Botswana  Pension Fund,Pension Fund
 15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
-1,Mmila Beneficiary Fund,Beneficiacy Fund
-2,NMG Beneficiary Fund,Beneficiacy Fund
-3,Alexander Forbes Beneficiary Fund,Beneficiary Fund
-4,Glenrand MIB Orphans Fund,Beneficiary Fund
-5,Fiducia Beneficiary Fund,Beneficiary Fund
-6,Carrier South Africa Provident Fund-External Fund,External Fund
-7,Knight Pie Sold Pension Fund,External Fund
-8,WIKA Instrument Pension Fund (External Fund),External Fund
-9,Alexander Forbes Individual Member Retirement Fund,Individual Retirement Fund
-10,Botswana Life Retirement Annuity Fund,Individual Retirement Fund
-11,Morula Individual Retirement Fund,Individual Retirement Fund
-12,Akani Retirement Fund,Individual Retirement Fund
-13,Free Standing Additional Voluntary Contributions Retirement Fund,Individual Retirement Fund
-14,Air Botswana Pension Fund,Pension Fund
-15,AON Botswana Staff Pension Fund,Pension Fund
-16,Apex Pension Fund,Pension Fund
-17,Bank of Botswana Defined Contribution Fund,Pension Fund
-18,ABSA Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
-19,BCL Staff Pension Fund,Pension Fund
-20,BOCODOL Staff Pension Fund (Botswana Open University,Pension Fund
+16,Apex Pension Fund  ,Pension Fund
+17,Bank of Botswana Defined Contribution Fund ,Pension Fund
+18,ABSA  Bank of Botswana Ltd. Staff Pension Fund,Pension Fund
+19,BCL Staff Pension Fund  ,Pension Fund
+20,BOCODOL Staff Pension Fund (Botswana  Open University,Pension Fund
+21,Botswana Ash Staff Pension Fund,Pension Fund
+22,Botswana Building Society Defined Contribution Pension Fund,Pension Fund
+23,Botswana Bureau of Standards Staff Pension Fund,Pension Fund
+24,Botswana College of Agriculture Pension Fund ( BUAN),Pension Fund
+25,Botswana Examinations Council Pension Fund,Pension Fund
+26,Botswana Housing Corporation Pension Fund,Pension Fund
+27,Botswana Meat Commission Pension Fund,Pension Fund
+28,Botswana Medical Aid Society Pension Fund,Pension Fund
+29,Botswana Post Pension Fund ,Pension Fund
+30,Botswana Power Corporation Staff Pension Fund,Pension Fund
+31,Botswana Public Officers Pension Fund,Pension Fund
+32,Botswana Railways Staff Pension Fund,Pension Fund
+33,Botswana Savings Bank Pension Fund,Pension Fund
+34,Botswana Communications Regulatory Authority Pension Fund,Pension Fund
+35,Botswana Telecommunications Corporation Staff Pension Fund,Pension Fund
+36,Botswana Unified Revenue Service Employees Pension Fund,Pension Fund
+37,Botswana International University of Science and Technology Staff Pension Fund,Pension Fund
+38,Botswana Vaccine Institute Pension Fund,Pension Fund
+39,Citizen Entrepreneurial Development Agency Staff Pension Fund,Pension Fund
+40,Civil Aviation of Botswana Pension Fund,Pension Fund
+41,Debswana Pension Fund,Pension Fund
+42,Delloitte& Touche',Pension Fund
+43,Engen Botswana Retirement Fund,Pension Fund
+44,Fincraft  Retirement Fund ,Pension Fund
+45,First National Bank of Botswana Pension Fund,Pension Fund
+46,FSN Retirement Plan ,Pension Fund
+47,Glenrand MIB Botswana Pension Fund ,Pension Fund
+48,Institute of Development Management Pension Fund ,Pension Fund
+49,J. Haskins & Sons Pension Fund ,Pension Fund
+50,Local Enterprise Authority Pension Fund,Pension Fund
+51,Mascom Wireless Staff Pension Fund,Pension Fund
+52,Metropolitan Staff Pension Fund ,Pension Fund
+53,Motor Vehicle Accident Pension Fund,Pension Fund
+54,National Development Bank Staff Pension Fund,Pension Fund
+55,National Food & Technology Research Centre(NARDI),Pension Fund
+56,Orange Pension Fund,Pension Fund
+57,Puma Energy Staff Pension Fund,Pension Fund
+58,Scales and Associates Pension Fund ,Pension Fund
+59,Sefalana Group  Staff Pension Fund,Pension Fund
+60,Shell Oil Botswana Pension Fund,Pension Fund
+61,Stanbic Bank Botswana Pension Fund,Pension Fund
+62,Standard Chartered Bank Botswana Pension Fund,Pension Fund
+63,Total Botswana Pension Fund,Pension Fund
+64,University of Botswana Defined Contribution Staff Pension Fund,Pension Fund
+65,Water Utilities Corporation Staff Pension Fund,Pension Fund
+66,Boswe Pension Fund ,Pension Fund
+67,Fedics Pension Fund,Pension Fund
+68,Botswana Union Conference,Pension Fund
+69,Caltex Botswana Pension Fund/  Chevron Pension Fund,Pension Fund
+70,Alexander Forbes Preservation Fund ,Preservation Fund 
+71,AON Preservation Pension Fund,Preservation Fund 
+72,Deferred Pensioners Pension Fund,Preservation Fund 
+73,Fiducia Preservation Fund,Preservation Fund 
+74,Mmila Preservation Fund,Preservation Fund 
+75,Fairheads Preservation Pension Fund,Preservation Fund 
+76,NMG Preservation  Fund,Preservation Fund 
+77,Metropolitan Staff Provident Fund ,Provident Fund
+78,Naledi Provident Fund,Provident Fund
+79,NMG Umbrella Fund,Umbrella Fund
+80,Alexander Forbes Retirement Fund,Umbrella Fund
+81,Sentlhaga Pension Fund,Umbrella Fund
+82,Majwana Pension Fund,Umbrella Fund
+83,Fairhead Umbrella Funds,Umbrella Fund
+84,Fiducia Umbrella Pension Fund,Umbrella Fund 
+85,Mmila Umbrella Fund,Umbrella Fund 
+86,Millennium Retirement Fund,Umbrella Fund 
+87,Africa 53 Provident Fund ,Umbrella Fund (Provident Fund ) 
+88,Lekuka Umbrella Fund  ,Umbrella Fund (Provident Fund)
+89,Fiducia  Umbrella (Provident )Fund,Umbrella Fund (Provident Fund)
+90,Mmila Provident Fund,Umbrella Fund (Provident Fund)

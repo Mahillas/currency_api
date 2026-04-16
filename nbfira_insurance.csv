@@ -7,11 +7,11 @@ number,name,sector
 4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
 5,Botswana Insurance Company Limited,General Insurer
 6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
+7,Export Credit Insurance &amp; Guarantee Company (Botswana) (Pty) Ltd ,General Insurer
+9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana ,General Insurer
 10,Lords Insurance (Pty) Ltd,General Insurer
 11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
+12,Old Mutual Short Term Insurance  Company of Botswana Ltd,General Insurer
 13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
 14,Sesiro Insurance Company (Pty) Ltd,General Insurer
 15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
@@ -19,483 +19,261 @@ number,name,sector
 17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
 18,Afritec Life Insurance (Pty) Ltd,Life Insurer
 19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
-8,The Hollard Insurance Company of Botswana (Pty) Ltd,General Insurer
-25,Hollard Life Assurance Company of Botswana (Pty) Ltd,Life Insurer
-1,Active Drive Capital (Pty) Ltd,General Insurer
-2,Alpha Direct Insurance Company (Pty) Ltd,General Insurer
-3,B.I.C.B Limited t/a Bryte Risk Services Botswana,General Insurer
-4,BIHL Insurance Company Limited t/a Insure Guard,General Insurer
-5,Botswana Insurance Company Limited,General Insurer
-6,Coverlink Insurance (Pty) Ltd,General Insurer
-7,Export Credit Insurance & Guarantee Company (Botswana) (Pty) Ltd,General Insurer
-9,Legal Expenses Insurance Botswana (Pty) Ltd t/a Leza Legalwise Botswana,General Insurer
-10,Lords Insurance (Pty) Ltd,General Insurer
-11,Mayfair Insurance Botswana (Pty) Ltd,General Insurer
-12,Old Mutual Short Term Insurance Company of Botswana Ltd,General Insurer
-13,Phoenix of Botswana Assurance Company (Pty) Ltd,General Insurer
-14,Sesiro Insurance Company (Pty) Ltd,General Insurer
-15,Special Risks Insurance Of Botswana Limited t/a BOSRIA,General Insurer
-16,Sunshine Insurance Company of Botswana (Pty) Ltd,General Insurer
-17,Westsure Insurance Botswana (Pty) Ltd,General Insurer
-18,Afritec Life Insurance (Pty) Ltd,Life Insurer
-19,Axion Life (Pty) Ltd,Life Insurer
+20,Babereki Life Insurance (Pty) Ltd,Life Insurer
+21,Bona Life Insurance (Pty) Ltd,Life Insurer
+22,Botswana Life Insurance Limited,Life Insurer
+23,Exclusive Life Insurance (Pty) Ltd,Life Insurer
+26,Liberty (Botswana) (Pty) Ltd t/a Liberty Life Botswana,Life Insurer
+27,Lords Life Insurance (Pty) Ltd,Life Insurer
+28,Metropolitan Life of Botswana Limited,Life Insurer
+29,Old Mutual Life Insurance Company Botswana (Pty) Ltd,Life Insurer
+30,Westlife Insurance Botswana (Pty) Ltd,Life Insurer
+31,Continental Reinsurance Company Limited,Reinsurer
+32,Continental Reinsurance Holdings Limited,Reinsurer
+33,Emeritus International Reinsurance Company (Pty) Ltd,Reinsurer
+34,FBC Re (Botswana) (Pty) Ltd,Reinsurer
+35,FMRE Property &amp; Casualty (Proprietary) Limited,Reinsurer
+36,Grand Reinsurance Botswana (Pty) Ltd,Reinsurer
+37,P &amp; C Reinsurance Company (Pty) Ltd,Reinsurer
+38,Saha Reinsurance (Pty) Ltd,Reinsurer
+39,Solid Reinsurance (Pty) Ltd,Reinsurer
+40, First Mutual Health (Pty) Ltd ,Medical Aid 
+41,Botsogo Health Plan (Pty) Ltd,Medical Aid 
+42,Botswana Medical Aid Society,Medical Aid 
+43,Botswana Public Officers Medical Aid Scheme,Medical Aid 
+44,Doctors (Pty) Ltd t/a Doctors-Aid Medical Aid Scheme,Medical Aid 
+45,Pula Medical Aid Fund,Medical Aid 
+46,Abovelife Insurance BrokeB3:B31rs (Pty) Ltd,Brokers
+47,Absolute Insurance Brokers (Pty) Ltd,Brokers
+48,Alexander Forbes Financial Services Botswana (Pty) Ltd,Brokers
+49,Babereki Insurance Brokers (Pty) Ltd,Brokers
+50,Best Cover (Pty) Ltd,Brokers
+51,BOC Consulting (Pty) Ltd t/a BOC Insurance Brokers,Brokers
+52,Bofus Insurance Brokers (Pty) Ltd,Brokers
+53,Bombshell Investments (Pty) Ltd t/a Flexi-Link Insurance Brokers,Brokers
+54,Brastorne Enterprises (Pty) Ltd,Brokers
+55,BSB Insurance Services (Pty) Ltd,Brokers
+56,Calma Enterprises (Pty) Ltd t/a Travis Insurance Services,Brokers
+57,Capricorn Insurance Services (Pty) Ltd,Brokers
+58,CBAE (Pty) Ltd t/a Spectrum Insurance Brokers,Brokers
+59,CEDA Insurance Brokers (Pty) Ltd,Brokers
+60,CG Re (Africa) (Pty) Ltd,Brokers
+61,CIH Insurance Brokers (Pty) Ltd,Brokers
+62,Cradle Insurance Brokers (Pty) Ltd,Brokers
+63,Dokata Investments (Pty) Ltd t/a Coverlink Insurance Brokers,Brokers
+64,Dolarrose Investments (Pty) Ltd,Brokers
+65,Dynamic Insurance Brokers (Pty) Ltd,Brokers
+66,Elect Concepts (Pty) Ltd,Brokers
+67,Fiducia Insurance Brokerage (Pty) Ltd,Brokers
+68,Finsef (Pty) Ltd,Brokers
+69,First Heritage (Pty) Ltd,Brokers
+70,First Sun Alliance (Pty) Ltd,Brokers
+71,FNB Insurance Brokers (Botswsana) (Pty) Ltd,Brokers
+72,Forbes Insurance Agency (Pty) Ltd t/a Pula Insurance,Brokers
+73,Grey Palm Investments (Pty) Ltd,Brokers
+74,Harvey Insurance (Pty) Ltd,Brokers
+75,Hilrange Enterprises (Pty) Ltd t/a Redhill Risk Solutions,Brokers
+76,Hirsch Vic Insurance Brokers (Pty) Ltd,Brokers
+77,Insure Me (Pty) Ltd,Brokers
+78,Insure-rite (Pty)Ltd,Brokers
+79,Investments House (Pty) Ltd t/a Investments House Brokers,Brokers
+80,Kalahari Insurance Brokers (Pty) Ltd,Brokers
+81,Kebonang Holings (Pty) Ltd t/a Lebone Insurance Brokers,Brokers
+82,Kenmal Holdings (Pty) Ltd t/a Malsure Insurance,Brokers
+83,Keycode Investments (Pty) Ltd,Brokers
+84,Kgare Insurance Brokers (Pty) Ltd,Brokers
+85,Letsema Insurance Brokers (Pty) Ltd,Brokers
+86,Marsh (Pty) Ltd,Brokers
+87,Marvel-Gate Investments (Pty) Ltd t/a Paragon Insurance Brokers ,Brokers
+88,Mercantile Insurance Brokers (Pty) Ltd,Brokers
+89,Minet Botswana (Pty) Ltd,Brokers
+90,Mmila Advisory Services (Pty) Ltd,Brokers
+91,Mogakolodi Consultants (Pty) Ltd,Brokers
+92,Mothotota Investments (Pty) Ltd t/a Assure Wealth,Brokers
+93,Mukfin Botswana (Pty) Ltd ,Brokers
+94,Nnawalt Holdings (Pty) Ltd t/a Brightside Insurance Brokers,Brokers
+95,Penrich Insurance Brokers (Pty) Ltd,Brokers
+96,Ponelo Wealth Group (Pty) Ltd t/a Ponelo Insure,Brokers
+97,Pristine Risk Services (Pty) Ltd,Brokers
+98,Proper Life (Pty) Ltd,Brokers
+99,Prorisk Solutions (Pty) Ltd,Brokers
+100,Purple Waves  (pty) Ltd t/a Complete Insurance Brokers,Brokers
+101,Quality Services (Pty) Ltd t/a Chartered Insurance Brokers,Brokers
+102,Saley's Agencies (Botswana) (Pty) Ltd t/a Saley's Insurance Brokers,Brokers
+103,Sapphire Woman (Pty) Ltd t/a Medi Insurance Brokers,Brokers
+104,Satib Africa (Botswana) (Pty) Ltd t/a Safari and Tourism Insurance Brokers,Brokers
+105,Southern Summit Reinsurance Company (Pty) Ltd,Brokers
+106,South-sure (Pty) Ltd,Brokers
+107,Sparkle Insurance services,Brokers
+108,Super Insurance Brokers (Pty) Ltd,Brokers
+109,Tadzata Construction Company (Pty) Ltd t/a Botshabelo Insurance Brokers,Brokers
+110,Thanya Solutions (Pty) Ltd t/a Thanya Insurance Brokers,Brokers
+111,The Intrepid Group (Pty) Ltd,Brokers
+112,Trinity Insurance Consultancy &amp; Risk Managers (Pty) Ltd,Brokers
+113,Trustwave Insurance Brokers (Pty) Ltd,Brokers
+114,Tsagae Promotions (Pty) Ltd t/a Lekgota Insurance Brokers,Brokers
+115,U &amp; Me Investments (Pty) Ltd t/a U &amp; Me Insurance Brokers,Brokers
+116,Ultimate Care Insurance Brokers (Pty) Ltd,Brokers
+117,Wealthcover Insurance (Pty) Ltd,Brokers
+118,Wiras Investments (Pty) Ltd t/a Wiras Reinsurance Brokers ,Brokers
+119,ABSA Insurance  Services(Pty) Ltd,Agencies
+120,Abundance International Insurance Agency (Pty) Ltd,Agencies
+121,Aflon (Pty) Ltd ,Agencies
+122,AGA Sure (Pty) Ltd ,Agencies
+123,Alfa First Projects (Pty) Ltd,Agencies
+124,Alphacom Investments (Pty) Ltd,Agencies
+125,Arise &amp; Shine for the Light (Pty) Ltd t/a Arise &amp; Shine Insurance Agency,Agencies
+126,Basic Insticts (Pty) Ltd,Agencies
+127,Basic Instincts (Pty) Ltd,Agencies
+128,BBS Insurance Agency (Pty) Ltd,Agencies
+129,Belleview (Pty) Ltd,Agencies
+130,Best Life Insurance Services (Pty) Ltd,Agencies
+131,BG Insurance Agency (Pty) Ltd,Agencies
+132,Bizotic (Pty) Ltd t/a TM-Fairsure Insurance Agency,Agencies
+133,Bokamoso Wealth Life Insurance (Pty) Ltd,Agencies
+134,Bonu Insurance Agency (Pty) Ltd,Agencies
+135,Bright Minds (Pty) Ltd,Agencies
+136,Calvin's Investment (Pty) Ltd,Agencies
+137,Carlton Insurance Agency (Pty) Ltd,Agencies
+138,Carningham Investments (Pty) Ltd T/A Carningham Insurance Agency,Agencies
+139,Carthcart Holdings (Pty) Ltd t/a Carthcart Wealth Managers,Agencies
+140,Central Coffins Botswana (Pty) Ltd,Agencies
+141,Centre Piece Insurance Agencies (Pty) Ltd,Agencies
+142,Centric Sure (Pty) Ltd,Agencies
+143,City Group (Pty) Ltd,Agencies
+144,Competence Life  (Pty) Ltd,Agencies
+145,Coverite (Pty) Ltd,Agencies
+146,Daisy-R Staffing Solutions (Pty) Ltd t/a Insureit,Agencies
+147,Delta Insurance Agency (Pty) Ltd,Agencies
+148,Deontic Holdings (Pty) Ltd t/a Deontic Insurance Group,Agencies
+149,Dzivakwi Investments (Pty) Ltd t/a Chama Insurance Agency,Agencies
+150,Esmoga Investments (Pty) Ltd,Agencies
+151,Express Credit (Pty) Ltd,Agencies
+152,Family First Insurance (Pty) Ltd,Agencies
+153,Fincity Investments (Pty) Ltd t/a Futureguard Insurance Agency,Agencies
+154,Fine Brass Investments (Pty) Ltd,Agencies
+155,Firstcred Limited,Agencies
+156,Fortunesgate (Pty) Ltd,Agencies
+157,FSG Assurance (Pty) Ltd,Agencies
+158,Furniture Mart (Pty) Ltd,Agencies
+159,G.I.B Sales &amp; Distribution (Pty) Ltd,Agencies
+160,Gama Insurance (Pty) Ltd,Agencies
+161,Genius Famalies (Pty) Ltd,Agencies
+162,Geranium Insurance Agency (Pty) Ltd,Agencies
+163,Getsure Legal (Pty) Ltd,Agencies
+164,GWTK Holdings,Agencies
+165,Hindsight (Pty) Ltd t/a F&amp; I,Agencies
+166,Homepark (Pty) Ltd T/A Mmadale Insurance Agency,Agencies
+167,Inerca Holdings (Pty) Ltd ,Agencies
+168,Infinity Edge (Pty) Ltd,Agencies
+169,Innovative Ideas (Pty) Ltd T/A Innovative Insurance Agency,Agencies
+170,Innovex Consultants (Pty) Ltd T/A Innovex Insurance Agency,Agencies
+171,Insurance Connect (Pty) Ltd,Agencies
+172,Insurance Magnets (Pty) Ltd,Agencies
+173,Intimo Creations (Pty) Ltd t/a Royal Advisory Services,Agencies
+174,Jaole Investments (Pty) Ltd,Agencies
+175,Jetwig Enterprises (Pty) Ltd t/a Capital Bank Insurance Agency,Agencies
+176,Joint Perfections ,Agencies
+177,Joshua Doore Russells Botswana (Pty) Ltd,Agencies
+178,Kafar Life And Risk Managers (Pty) Ltd,Agencies
+179,Kaleu (Pty) Ltd t/a Banc ABC,Agencies
+180,Kamoso Wealth Agency (Pty) Ltd ,Agencies
+181,Kehumile Insurance Agency (Pty) Ltd,Agencies
+182,Kenmal Holdings (Pty) Ltd t/a Malsure  Insurance,Agencies
+183,Kgagaripa Investments (Pty) Ltd,Agencies
+184,Kganya Botswana,Agencies
+185,Kingstons Group (Pty) Ltd t/a King Sure Insurance Agency,Agencies
+186,Koko Enterprises (Pty) Ltd t/a Smart Cover Insurance Agency  ,Agencies
+187,Legend Insurance Agent (Pty) Ltd,Agencies
+188,Legora Insurance (Pty) Ltd,Agencies
+189,Lele High Tech Enterprises (Pty) Ltd t/a Pearl Insurance,Agencies
+190,Lelentle Insurance Agency,Agencies
+191,Lemon Insurance Agency (Pty) Ltd,Agencies
+192,Lere Mckay Holdings (Pty) Ltd t/a Royalgram,Agencies
+193,Letlotlo Insurance (Pty) Ltd,Agencies
+194,Letshego Financial Services (Pty) Ltd,Agencies
+195,"Lewis Stores (Botswana) (Pty) Ltd t/a Lewis, Best Home &amp; Electric and Beares",Agencies
+196,Libra Insurance Agency (Pty) Ltd,Agencies
+197,LifeDale Insurance Agency (Pty) Ltd,Agencies
+198,Linclu Investments (Pty) Ltd,Agencies
+199,Losika Funeral Services (Pty) Ltd,Agencies
+200,Marketouch Insurance Services (Pty) Ltd,Agencies
+201,Maron Dawson (Pty) Ltd,Agencies
+202,Marshall Grove Holdings (Pty) Ltd,Agencies
+203,Medvest Life Agency (Pty) Ltd,Agencies
+204,Medvest Short-Term (Pty) Ltd,Agencies
+205,Mega Avenues (Pty) Ltd,Agencies
+206,Metbai Holdings (Pty) Ltd,Agencies
+207,Mikram Investments (Pty) Ltd t/a Mikram Insurance Agency,Agencies
+208,Millennium Insurance Agency,Agencies
+209,Mmarona Insurance Agency (Pty) Ltd,Agencies
+210,Mokaulengwe Benefit Scheme (Pty) Ltd,Agencies
+211,Money Quest Investments (Pty) Ltd T/A Bayport Financial Services,Agencies
+212,Monlife (Pty) Ltd ,Agencies
+213,Montsamaisa Legal Insurance (Pty) Ltd,Agencies
+214,Mosfara Holdings (Pty) Ltd,Agencies
+215,Mosireletsi Legal Services (Pty) Ltd,Agencies
+216,Motor Centre (Botswana) (Pty) Limited,Agencies
+217,Motshelo Mobile (Pty) Ltd,Agencies
+218,Mphemphe (Pty) Ltd,Agencies
+219,Naalano (Pty) Ltd,Agencies
+220,Naledi Motors (Pty) Ltd,Agencies
+221,National Development Insurance Agency (Pty) Ltd,Agencies
+222,Nchecheni (Pty) Ltd t/a BDF Welfare Fund Insurance Agency,Agencies
+223,Neitaw (Pty) Ltd,Agencies
+224,Nguvu Investments (Pty) Ltd t/a Sakari,Agencies
+225,NMI Durban South Motors Botswana (Pty) Ltd t/a Barloworld Motor Botswana,Agencies
+226,Normlife (Pty) Ltd,Agencies
+227,Odinfin Botswana (Pty) Ltd,Agencies
+228,Pasmac (Pty) Ltd,Agencies
+229,Pendisa Insurance Agency,Agencies
+230,Plenz Sure (Pty) Ltd,Agencies
+231,Polelo (Pty) Ltd,Agencies
+232,Premier Life Marketing (Pty) Ltd ,Agencies
+233,Pri-Edd Investment (Pty) Ltd,Agencies
+234,Proctor Insurance Services (Pty) Ltd,Agencies
+235,Propel Optimum (Pty) Ltd,Agencies
+236,Providence Legal Insurance (Pty) Ltd,Agencies
+237,Pule Insurance (Pty) Ltd,Agencies
+238,Qubeka Investments (Pty) Ltd,Agencies
+239,Rabboni Insurance Agency (Pty) Ltd,Agencies
+240,Radical Change Agency (Pty) Ltd,Agencies
+241,Real Value (Pty) Ltd T/A Universal Life,Agencies
+242,Refresh-Link (Pty) Ltd,Agencies
+243,Resmack (Pty) Ltd,Agencies
+244,Retail Holdings Botswana (Pty) Ltd,Agencies
+245,Rock Insurance Agencies (Pty) Ltd,Agencies
+246,S.M.P Insurance Agency (Pty) Ltd,Agencies
+247,Safe Line Marketing (Pty) Ltd,Agencies
+248,Segai le Thebe Insurance Scheme (Pty) Ltd T/A Thebe Legal Insurance ,Agencies
+249,Senatla Insurance Agency (Pty) Ltd,Agencies
+250,Sepapane Group (Pty) Ltd t/a Creative Gains Investment,Agencies
+251,Sepipi Construction (Pty) Ltd t/a Side Group Consultancy,Agencies
+252,Serge Risk Services (Pty) Ltd t/a Inserge,Agencies
+253,Seriti Business Solutions (Pty) Ltd,Agencies
+254,Skyplex Investments (Pty) Ltd,Agencies
+255,Spaar Botswana Group Management Services (Pty) Ltd T/A G.R.F Management Services,Agencies
+256,Stanbic Insurance Services (Pty) Ltd,Agencies
+257,Standard Chartered Bank Insurance (Pty) Ltd,Agencies
+258,Sterling Managemnt Services (Pty) Ltd,Agencies
+259,Tau Insurance Services (Pty) Ltd,Agencies
+260,Tautona Insurance Agencies (Pty) Ltd,Agencies
+261,Thanya Solutions (Pty) Ltd t/a Thanya Insurance Brokers  ,Agencies
+262,The Diary Life Insurance (Pty) Ltd ,Agencies
+263,The O'Mach Insurance Agency (Pty) Ltd,Agencies
+264,The Tushiya Wisdom Insurance Agency (Pty) Ltd,Agencies
+265,Tishbo Holdings (Pty) Ltd,Agencies
+266,Trinity Insurance Consultancy &amp; Risk Managers (Pty) Ltd,Agencies
+267,Tri-Unity Holings (Pty) Ltd t/a Botsure Insurance Agencies,Agencies
+268,Tsodilo Capital (Pty) Ltd,Agencies
+269,Tsogang Insurance Agency (Pty) Ltd,Agencies
+270,Unicoin (Pty) Ltd,Agencies
+271,Uyalicious Holdings (Pty) Ltd t/a Green Life Insurance ,Agencies
+272,Wealth Achieve Advisors (Pty) Ltd,Agencies
+273,Wealth Genix (Pty) Ltd,Agencies
+274,Weaver Insurance Agency (Pty) Ltd,Agencies
+275,Winning Pillar (Pty) Ltd,Agencies
+276,Wisepillars (Pty) Ltd,Agencies
+277,World Cover Training Institute (Pty) Ltd,Agencies
+278,Zee Light Holding (Pty) Ltd,Agencies
+102,Corporate Guarantee and Insurance Company of Botswana Limited,General Insurer
